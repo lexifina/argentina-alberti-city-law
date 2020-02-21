@@ -1,0 +1,8 @@
+Ordenanza Nº2394
+Ordenanza Nº 2394
+Alberti, 30/12/2019
+VISTO
+El Expediente N°4002-4652/19 Proyecto de Ordenanza Impositiva y Fiscal Ejercicio 2020 elevada a este Cuerpo por el Departamento Ejecutivo;
+EL HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE ALBERTI EN USO DE LAS ATRIBUCIONES QUE LE SON PROPIAS, ACUERDA Y SANCIONA CON FUERZA DE
+ORDENANZA
+ORDENANZA DEFINITIVA
