@@ -1,0 +1,8 @@
+Ordenanza Nº2456
+Ordenanza Nº 2456
+Alberti, 22/03/2021
+Que en el año 2021 se cumplen 60 años del regreso del Dr. CESAR MILSTEIN a la República Argentina; con la presidencia del Dr. Arturo Frondizi; en esta oportunidad fue designado jefe del departamento de Biología molecular de Instituto Nacional de Microbiología Carlos Malbrán.
+Que en el año 2020, fue declarada la pandemia por COVID19 por la Organización Mundial de la Salud en todo el mundo y cuyas consecuencias sociales, económicas y psicológicas no pueden ser aun dimensionadas, se hace imprescindible el rol de los profesionales y la importancia de las investigaciones científicas en todos los campos y particularmente en la medicina.
+Que el Dr. Cesar Milstein nació el 8 de Octubre de 1927, en la localidad bonaerense de Bahía Blanca, hijo de Lázaro Milstein, inmigrante y Máxima Vapñarsky maestra, el segundo de tres hermanos, cursó la escuela primaria N° 3 de Bahía Blanca y la secundaria en el Colegio Nacional hoy E.E.S. N° 13; A los trece años se sintió influenciado por un libro los cazadores de microbios de Paul Kruif donde se recopilaban biografías de biólogos como Luis Pasteur y Robert Koch.
+Se trasladó a la Capital Federal para estudiar en la Universidad de Buenos Aires y se graduó de Licenciado en ciencias químicas en la facultad de Ciencias Exactas y Naturales cuatro años más tarde recibió su Doctorado en Química por su tesis sobre enzimas. Obtuvo una beca en 1958 en Cambridge, en el Medical Central Research uno de los centros científicos mundialmente reconocidos su Director de investigaciones el científico Frederick Sanger quien recibiría 14 años más tarde el premio Nobel en Física.
+ORDENANZA
