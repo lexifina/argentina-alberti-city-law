@@ -1,0 +1,4 @@
+Ordenanza Nº2639-2024
+Ordenanza Nº 2639-2024
+Alberti, 13/05/2024
+ORDENANZA
