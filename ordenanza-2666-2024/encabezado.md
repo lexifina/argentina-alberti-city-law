@@ -1,0 +1,16 @@
+Ordenanza Nº2666-24
+Ordenanza Nº 2666-24
+Alberti, 11/11/2024
+VISTO:
+La Resolución Nº 47/3 de la Asamblea General de Naciones Unidas. La Ley Nº 25.346. La Ley Nº 26.378. La Ley Nº 27.044. El Decreto N° 698/17 y modificatoria. Las facultades conferidas por la Carta Orgánica Municipal.
+CONSIDERANDO:
+Que la Resolución N° 47/4 de la Asamblea General de las Naciones Unidas declaró el 3 de diciembre como el Día Internacional de las Personas con Discapacidad, con la finalidad de concientizar a la población y poder promover sus derechos y el bienestar de las personas con discapacidad en todos los ámbitos de la sociedad y concientizar a la población;
+Que, mediante la Ley N° 25.346, se declaró el 03 de diciembre como el Día Nacional de las Personas con Discapacidad, con el propósito de divulgar las normas que amparan a las personas con discapacidad, especificando los derechos y sosteniendo la responsabilidad de su cumplimiento por parte de los involucrados directos en proporcionarlos y del conjunto de la sociedad en exigirlos; fortalecer las acciones tendientes a establecer principios de igualdad de oportunidades, superando las desigualdades que en cualquier orden y ámbito constituyen dificultades para las personas con discapacidad; y fomentar conductas responsables y solidarias para recrear una sociedad que incluya y posibilite el logro de los derechos universales para todas las personas con discapacidad;
+Que mediante la Ley Nº 26.378, el Congreso de la República Argentina aprobó la Convención sobre los Derechos de las Personas con Discapacidad y su protocolo facultativo, aprobados mediante resolución de la Asamblea General de las Naciones Unidas del 13 de diciembre de 2006, gozando de jerarquía constitucional;
+Que mediante la Resolución 1552/2021 de la Agencia Nacional de Discapacidad, se declara la semana del 25 de noviembre al 03 de diciembre de cada año como la “Semana de Promoción de los Derechos de las Personas con Discapacidad” que determina que durante las fechas precitadas se promoverán acciones concretas y federales de difusión y concientización sobre el rol que debe adoptar el Estado y la sociedad en su conjunto para la eliminación de las barreras actitudinales y del entorno, que impiden la participación plena, activa y efectiva de las personas con discapacidad en igualdad de condiciones con las demás.
+Que, la Escuela Municipal de Equinoterapia trabaja en nuestra localidad con personas con discapacidad a través de un método terapéutico que utiliza el caballo, las técnicas de equitación y las practicas ecuestres dentro de un plan interdisciplinario en las áreas de equitación, salud y educación buscando la rehabilitación y habilitación, inclusión y desarrollo físico psíquico y social de las personas que asisten a la misma.
+Que, su programa Puertas Abiertas busca crear espacios de actividades asistidas con caballos destinadas a la comunidad Albertina para visibilizar el trabajo de la Escuela y establecer vínculos profesionales con instituciones dedicadas al trabajo de personas con discapacidad a fin de posibilitar el acercamiento de la comunidad a la escuela y el desarrollo de actividades inclusivas.
+POR ELLO
+EL HONORABLE CONCEJO DELIBERANTE SANCIONA CON FUERZA DE
+ORDENANZA
+ORDENANZA
