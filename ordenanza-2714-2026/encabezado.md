@@ -1,0 +1,11 @@
+Ordenanza Nº2714
+Ordenanza Nº 2714
+Alberti, 23/12/2025
+VISTO:
+La Ordenanza Preparatoria N° 2708 FISCAL E IMPOSITIVA – EJERCICIO 2026 que
+como anexo I integra la presente, y;
+CONSIDERANDO:
+Lo normado en la Ley Orgánica de las Municipalidades.
+EL HONORABLE CONCEJO DELIBERANTE DEL PARTIDO DE ALBERTI EN USO DE LAS
+ATRIBUCIONES QUE LE SON PROPIAS, ACUERDA Y SANCIONA CON FUERZA DE:
+ORDENANZA
