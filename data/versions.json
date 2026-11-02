@@ -2817,13 +2817,13 @@
   },
   {
    "slug": "ordenanza-2712-2026",
-   "short": "Ordenanza 2712/2026",
-   "title": "Ordenanza 2712/2026: El acuerdo suscripto por el Departamento Ejecutivo municipal con",
+   "short": "Withdrawn corpus record: Ordenanza 2712/2025",
+   "title": "Withdrawn corpus record: Ordenanza 2712/2025",
    "url": "https://sibom.slyt.gba.gob.ar/bulletins/14466/contents/2375441",
    "versions": [
     {
      "from": "2026-07-25",
-     "units": 1,
+     "units": 0,
      "source_url": "https://sibom.slyt.gba.gob.ar/bulletins/14466/contents/2375441",
      "sha256": "4d119e76ebbf8829b4dad2cbeb75c4a8877d1af22236d38fcd44f8bff53d8d7b"
     }
