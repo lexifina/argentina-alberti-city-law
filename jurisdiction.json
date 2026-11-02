@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-alberti",
+  "code": "AR-B-ALBERTI",
+  "name": "Alberti",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-alberti-city-law",
+  "build": "built: municipal ordinances (151 ordinances, 151 versions) from https://sibom.slyt.gba.gob.ar/cities/3",
+  "language": "es",
+  "sources": 1
+}
