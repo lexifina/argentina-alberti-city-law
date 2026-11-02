@@ -165,20 +165,71 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-2736-2026` | Ordenanza 2736/2026: Convalídese en todos sus términos el Contrato de Comodato que como anexo I forma parte de la presente, mediante el cual este municipio otorga en comodato a la Asociación Cooperadora de la Escuela Agraria “Eduardo Clausz” | 1 | 2026-07-25 to 2026-07-25 |
 | `ordenanza-2737-2026` | Ordenanza 2737/2026: Convalídase la adenda a convenio suscripta por el Departamento Ejecutivo Municipal con la Coordinación Ecológica Área Metropolitana Sociedad del Estado (CEAMSE), que como Anexo I, forma parte de la presente. | 1 | 2026-07-25 to 2026-07-25 |
 | `ordenanza-2738-2026` | Ordenanza 2738/2026: Declárese de interés municipal la celebración de la fiesta patronal de Nuestra Señora del Perpetuo Socorro en la localidad de Pla. | 1 | 2026-07-25 to 2026-07-25 |
+| `ordenanza-2582-2023` | Ordenanza 2582/2023: Acéptese la deuda total (valor nominal más intereses) del crédito cedido por la Provincia de Buenos Aires, en concepto de obligaciones impagas por el impuesto automotor de periodos fiscales anteriores al año 2022 inclusi | 1 | 2023-05-26 to 2023-05-26 |
+| `ordenanza-2583-2023` | Ordenanza 2583/2023: Declárase el año 2023 como año de homenaje a los cuarenta años ininterrumpidos de democracia. | 1 | 2023-05-26 to 2023-05-26 |
+| `ordenanza-2588-2023` | Ordenanza 2588/2023: Declarar Comercio Histórico del Partido de Alberti a Forrajería y Semillería “El Colono”, abierto al público desde el año 1968. | 1 | 2023-05-26 to 2023-05-26 |
+| `ordenanza-2589-2023` | Ordenanza 2589/2023: Declarar Comercio Histórico del Partido de Alberti a “Agrovet” Veterinaria, abierto al público desde el año 1969. | 1 | 2023-05-26 to 2023-05-26 |
+| `ordenanza-2604-2023` | Ordenanza 2604/2023: Convalídese en todos sus términos el Decreto 675/23 para la ejecución de la obra construcción de 54 viviendas en el Barrio San Lorenzo. | 1 | 2023-10-27 to 2023-10-27 |
+| `ordenanza-2605-2023` | Ordenanza 2605/2023: Declarar de Interés Cultural al trabajo de investigación “Argentina: 1810-1910” del Lic. Ricardo Corigliano y felicitarlo por dicha labor. | 1 | 2023-10-27 to 2023-10-27 |
+| `ordenanza-2606-2023` | Ordenanza 2606/2023: Convalídese las extralimitaciones acaecidas en la Ejecución del Presupuesto de Gastos del Ejercicio 2022, según así lo establece el artículo 38 de la Ley 15225 en las Jurisdicciones y partidas que surgen del Estado de Ej | 1 | 2023-12-14 to 2023-12-14 |
+| `ordenanza-2609-2023` | Ordenanza 2609/2023: Declarar Comercio Histórico del Partido de Alberti a “Restaurante y Parrilla La Fusta”, abierto al público desde el año 1976. | 1 | 2023-12-14 to 2023-12-14 |
+| `ordenanza-2623-2023` | Ordenanza 2623/2023: Apruébese el Expediente 4002.- 5390/23: Ordenanza Preparatoria Fiscal e Impositiva Ejercicio 2024.- | 1 | 2024-04-25 to 2024-04-25 |
+| `ordenanza-2626-2023` | Ordenanza 2626/2023: Declárase Entidad de Bien Público Municipal a ¨Liga de PADRES DE FAMILIA ASOCIACIÓN CIVIL¨. | 1 | 2024-04-25 to 2024-04-25 |
+| `ordenanza-2629-2024` | Ordenanza 2629/2024: Declarase el año 2024 como el año en que se conmemora la gratuidad universitaria. - | 1 | 2024-08-01 to 2024-08-01 |
+| `ordenanza-2630-2024` | Ordenanza 2630/2024: Declarase de Interés Municipal al Pre Congreso de Salud 2024 de la Región Sanitaria X, organizado por el Ministerio de Salud de la Provincia de Buenos Aires a desarrollarse en nuestra localidad el 26 de marzo de 2024. - | 1 | 2024-08-01 to 2024-08-01 |
+| `ordenanza-2631-2024` | Ordenanza 2631/2024: Dispónese la aceptación la donación efectuada por el Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos Aires (MPCEIT), a través de la Subsecretaria de Ciencia, Tecnología e Innovación ( | 1 | 2024-08-01 to 2024-08-01 |
+| `ordenanza-2636-2024` | Ordenanza 2636/2024: Convalídese en todos sus términos el Convenio específico entre la Facultad Regional de San Nicolás de la Universidad Tecnológica Nacional y el Municipio de Alberti. | 1 | 2024-08-28 to 2024-08-28 |
+| `ordenanza-2637-2024` | Ordenanza 2637/2024: Facúltase al Departamento Ejecutivo a incorporar al patrimonio municipal el bien inmueble que se detalla a continuación, en las condiciones que resultan de la oferta de compraventa y constancia de aceptación de la misma, | 1 | 2024-08-28 to 2024-08-28 |
+| `ordenanza-2639-2024` | Ordenanza 2639/2024: Convalídese en todos sus términos el Convenio específico entre la Cooperativa Eléctrica de Pla y la Municipalidad de Alberti | 1 | 2024-09-07 to 2024-09-07 |
+| `ordenanza-2640-2024` | Ordenanza 2640/2024: Dejase establecido con carácter general temporario, un sistema de presentación espontánea y régimen de facilidades de pago para la regularización tributaria e ingreso de las obligaciones fiscales adeudadas por los contri | 1 | 2024-09-07 to 2024-09-07 |
+| `ordenanza-2642-2024` | Ordenanza 2642/2024: 1: Apruébese la Rendición de Cuentas Ejercicio 2023, conforme a lo detallado en el Expediente N° 4002 – 5427/24. | 1 | 2024-09-07 to 2024-09-07 |
+| `ordenanza-2643-2024` | Ordenanza 2643/2024: Establecer el sentido de las siguientes calles: | 1 | 2024-09-07 to 2024-09-07 |
+| `ordenanza-2644-2024` | Ordenanza 2644/2024: Impleméntese en el Partido de Alberti, una campaña integral preventiva, dirigida a toda la comunidad, sobre los riesgos del juego con apuestas online, a cargo de la autoridad designada por el Municipio. | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-2645-2024` | Ordenanza 2645/2024: Identifíquese con el nombre de Martina Chapanay a la calle ubicada entre Circunscripción I, Sección B, Manzana 103, Parcela 6, y Circunscripción I, Sección C, Quinta 17, Manzana 17 A, Parcela 3, entre las calles Sarmient | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-2646-2024` | Ordenanza 2646/2024: Declarar de Interés Cultural el encuentro enmarcado dentro de los 50 años de la EDUCACIÓN SUPERIOR PARA JÓVENES, ADULTOS Y ADULTOS MAYORES y la proyección del film que destaca la importancia de la educación popular. | 1 | 2024-09-20 to 2024-09-20 |
+| `ordenanza-2650-2024` | Ordenanza 2650/2024: Imponerse el nombre Dr. Raúl Ricardo Alfonsín al barrio generado por el nuevo loteo de La Candela ubicado entre las calles: Héroes Albertinos de Malvinas, Independencia, Democracia y Güemes. | 1 | 2024-10-12 to 2024-10-12 |
+| `ordenanza-2658-2024` | Ordenanza 2658/2024: FACULTASE al Departamento Ejecutivo a celebrar con Provincia Leasing S.A. contrato/s de leasing en forma de contratación directa de conformidad a lo establecido por el Art. 156 inc. 2 de la ley orgánica de las Municipali | 1 | 2024-12-26 to 2024-12-26 |
+| `ordenanza-2659-2024` | Ordenanza 2659/2024: Declarar Comercio Histórico del Partido de Alberti a “Heladería NEYCE”, abierta al público desde el año 1979. | 1 | 2025-01-17 to 2025-01-17 |
+| `ordenanza-2660-2024` | Ordenanza 2660/2024: Declarar Comercio Histórico del Partido de Alberti a “COCHERÍA CAMINOS”, empresa familiar de Servicios Fúnebres desde hace 92 años. | 1 | 2025-01-17 to 2025-01-17 |
+| `ordenanza-2662-2024` | Ordenanza 2662/2024: Declarase de Interés Municipal al Programa ODS “PENSAR EL DESARROLLO SOSTENIBLE EN LAS AULAS”, desarrollado en nuestra localidad por docentes y alumnos de 1° y 2° año de las escuelas secundarias de Alberti. | 1 | 2025-01-17 to 2025-01-17 |
+| `ordenanza-2663-2024` | Ordenanza 2663/2024: Dispónese la transmisión dominial sin cargo, en forma gratuita, a favor de las personas que se indican en el Anexo I que integra la presente ordenanza, de los bienes inmuebles ubicados en la localidad de Coronel Mom, cuy | 1 | 2025-01-17 to 2025-01-17 |
+| `ordenanza-2666-2024` | Ordenanza 2666/2024: ESTABLECER en Alberti la semana del 25 de noviembre al 3 de diciembre de cada año, como la “Semana por la Promoción de los Derechos de las Personas con Discapacidad”. | 1 | 2025-02-13 to 2025-02-13 |
+| `ordenanza-2667-2024` | Ordenanza 2667/2024: Dispónese la permuta como Espacio Verde y Libre Público a Ceder, de las parcelas identificadas catastralmente como: a) Circunscripción XI, Sección F, Manzana 290a, Parcela 1 (con una superficie de 519,66 m2), b) Circunsc | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-2668-2024` | Ordenanza 2668/2024: Apruébese el Expediente 4002.- 5570/24: Ordenanza Preparatoria Fiscal e Impositiva Ejercicio 2025. - | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-2669-2024` | Ordenanza 2669/2024: Apruébese la Ordenanza Preparatoria N° 2668 FISCAL E IMPOSITIVA – EJERCICIO 2025. | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-2670-2024` | Ordenanza 2670/2024: El Municipio de Alberti adhiere a la Ley 10592 de la Provincia de Buenos Aires que establece la creación un régimen jurídico básico e integral para las personas con discapacidad. | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-2674-2024` | Ordenanza 2674/2024: El Municipio de Alberti adhiere a la Ley 15510 de la provincia de Buenos Aires que establece la creación del Régimen Provincial de Inversiones Estratégicas en la provincia de Buenos Aires. | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-2676-2024` | Ordenanza 2676/2024: Apruébese el Cálculo de Recursos y Presupuesto de Gastos Ejercicio 2025, Expediente 4002 –5581/24. | 1 | 2025-02-16 to 2025-02-16 |
+| `ordenanza-2681-2025` | Ordenanza 2681/2025: DECLÁRASE de Interés Municipal la proyección de la película “Norita” gratuita y abierta a los ciudadanos y ciudadanas en general, y a jóvenes en particular, pretendiendo construir memoria de manera colectiva. | 1 | 2025-06-05 to 2025-06-05 |
+| `ordenanza-2682-2025` | Ordenanza 2682/2025: Modificase el artículo 29 de la Ordenanza N° 2217, que integra el Capítulo IV, el cual quedará redactado de la siguiente manera: | 1 | 2025-06-05 to 2025-06-05 |
+| `ordenanza-2683-2025` | Ordenanza 2683/2025: 1: Declárase de Interés Municipal la FIESTA DE LA CARNEADA TRADICIONAL Y KERMESE DE CAMPO DE PLA, la cual se realiza anualmente durante el mes de junio en la localidad de PLA. | 1 | 2025-07-05 to 2025-07-05 |
+| `ordenanza-2684-2025` | Ordenanza 2684/2025: Convalídese en todos sus términos el Contrato de Comodato que como Anexo I forma parte de la presente, mediante el cual los descendientes de don Andrés Vaccarezza y de doña Catalina Ottonello otorgan en comodato a la Mun | 1 | 2025-07-05 to 2025-07-05 |
+| `ordenanza-2685-2025` | Ordenanza 2685/2025: al Centro de Atención Primaria de la Salud del Barrio Cavagnaro, el nombre de DOCTOR HERMINIO JORGE ZATTI.- | 1 | 2025-07-05 to 2025-07-05 |
+| `ordenanza-2690-2025` | Ordenanza 2690/2025: Convalídese en todos sus términos el convenio suscripto por el Departamento Ejecutivo con el Ministerio de Infraestructura y Servicios Públicos de la Provincia de Buenos Aires para la realización de la obra de infraestru | 1 | 2025-07-31 to 2025-07-31 |
+| `ordenanza-2692-2025` | Ordenanza 2692/2025: Declárase Entidad de Bien Público Municipal a la Cooperadora de la Escuela de Educación Secundaria N° 3 “Movimiento Arte Concreto Invención”. | 1 | 2025-11-27 to 2025-11-27 |
+| `ordenanza-2693-2025` | Ordenanza 2693/2025: Declárase Entidad de Bien Público Municipal a la Cooperadora de la Escuela de Equinoterapia. - | 1 | 2025-11-27 to 2025-11-27 |
+| `ordenanza-2694-2025` | Ordenanza 2694/2025: Reconocese y autorizase el pago de la deuda a la Dirección Provincial del Registro de la Propiedad de la Provincia de Buenos Aires, cuyo monto asciende a la suma de Pesos Trescientos treinta mil ($330.000), correspondien | 1 | 2025-11-27 to 2025-11-27 |
+| `ordenanza-2698-2025` | Ordenanza 2698/2025: Dispónese la creación de la Biblioteca Municipal de Alberti, que funcionará en la ciudad cabecera del Partido de Alberti, con sede en el Vagón Cultural ubicado en el predio de la Estación del Ferrocarril, en el inicio de | 1 | 2026-02-05 to 2026-02-05 |
+| `ordenanza-2699-2025` | Ordenanza 2699/2025: Declárase Entidad de Bien Público Municipal a la Asociación de Voley Alberti. | 1 | 2026-02-05 to 2026-02-05 |
+| `ordenanza-2700-2025` | Ordenanza 2700/2025: Dispónese la aceptación la donación efectuada por el Programa de las Naciones Unidas para el desarrollo, consistente en la entrega de los siguientes bienes muebles: | 1 | 2026-02-21 to 2026-02-21 |
+| `ordenanza-27001-2025` | Ordenanza 27001/2025: Dispónese la aceptación la donación efectuada por la Asociación Cooperadora del Hospital Municipal “Nuestra Señora de la Merced”, consistente en la entrega de los siguientes bienes muebles: | 1 | 2026-02-21 to 2026-02-21 |
+| `ordenanza-2703-2025` | Ordenanza 2703/2025: Dispónese la aceptación la donación efectuada por el, Ministerio de Transporte de la Provincia de Buenos Aires en el marco del programa Vuelta 0, dentro de la competencia de la Subsecretaria de Política y Seguridad Vial  | 1 | 2026-02-21 to 2026-02-21 |
+| `ordenanza-2705-2025` | Ordenanza 2705/2025: Designase el sentido de circulación a las calles que a continuación se detallan: | 1 | 2026-02-21 to 2026-02-21 |
+| `ordenanza-2712-2026` | Ordenanza 2712/2026: El acuerdo suscripto por el Departamento Ejecutivo municipal con | 1 | 2026-07-25 to 2026-07-25 |
 
-The build made 151 commits:
+The build made 202 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 151 | first version of an act |
+| 202 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-02.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 151 laws in the record.
-- 302 tags.
+- 202 laws in the record.
+- 353 tags.
 
 ## Dates
 
@@ -190,13 +241,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `849edb59308000b6cc51272a3298d386e2a45c8e9e17caac9142ad921abb81dc` (709937 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `6ce8bafaebcfc8bf25576a0102c536af1c0b8ba9c9230389299d2f50f80912cb` (949038 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-151 versions of 151 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -207,6 +258,7 @@ No second build of this corpus has been compared yet.
 - The Province of Buenos Aires gives its municipalities no carta orgánica: their organic law is the provincial Ley Orgánica de las Municipalidades (Decreto-Ley 6769/58), which is provincial law and not included here. So this repository starts with ordinances.
 - Ordinances are taken from SIBOM's ordinance search for the partido, read from its last result page back (the search lists them only roughly in date order) until about 200 are found, the newest it holds. They are sorted by the day they took effect and added oldest first in parts of about 50, so each part extends the history forward. An ordinance whose page carries only an extract, no article, or its text only as a PDF annex is left out; the README lists every ordinance left out and why. An ordinance published twice is taken from its first publication.
 - Units: the heading (encabezado: number, place and date, the expediente line and anything before Artículo 1) and one file per article, holding the article and everything printed after it up to the next article (signatures, annexes). Nothing is dropped. One paragraph per line, spacing normalised.
+- 1 ordinances in this part have complete HTML text but no article heading. Each is included as a single-file act; its one unit holds the published text in full.
 
 ## What AI did and did not do
 

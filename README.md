@@ -1,6 +1,6 @@
 # Alberti: municipal law history in git
 
-The municipal law of the Partido de Alberti (Province of Buenos Aires), Argentina, as a git history: one file per article, one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
+The municipal law of the Partido de Alberti (Province of Buenos Aires), Argentina, as a git history: one file per article (or one file for an unsplit ordinance), one commit per ordinance on the day it took effect. `git log` lists the changes; checking out a date gives the text the record holds for that day.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `ar-b-alberti/`. The province's law is in [lexifina/argentina-buenos-aires-law](https://github.com/lexifina/argentina-buenos-aires-law) and Argentina's national law in [lexifina/argentina-law](https://github.com/lexifina/argentina-law).
 
@@ -8,7 +8,7 @@ The text is in Spanish, exactly as the source prints it.
 
 ## What this repository holds
 
-151 ordinances so far, in force from 9 December 2018 to 25 July 2026, each as published in the Boletín Oficial Municipal de Alberti, added in parts.
+202 ordinances so far, in force from 9 December 2018 to 25 July 2026, each as published in the Boletín Oficial Municipal de Alberti, added in parts.
 
 | Folder | Ordinance | History |
 | --- | --- | --- |
@@ -163,6 +163,57 @@ The text is in Spanish, exactly as the source prints it.
 | `ordenanza-2736-2026/` | Ordenanza 2736/2026: Convalídese en todos sus términos el Contrato de Comodato que como anexo I forma parte de la presente, mediante el cual este municipio otor… | in force 25 July 2026 |
 | `ordenanza-2737-2026/` | Ordenanza 2737/2026: Convalídase la adenda a convenio suscripta por el Departamento Ejecutivo Municipal con la Coordinación Ecológica Área Metropolitana Socieda… | in force 25 July 2026 |
 | `ordenanza-2738-2026/` | Ordenanza 2738/2026: Declárese de interés municipal la celebración de la fiesta patronal de Nuestra Señora del Perpetuo Socorro en la localidad de Pla. | in force 25 July 2026 |
+| `ordenanza-2582-2023/` | Ordenanza 2582/2023: Acéptese la deuda total (valor nominal más intereses) del crédito cedido por la Provincia de Buenos Aires, en concepto de obligaciones impa… | in force 26 May 2023 |
+| `ordenanza-2583-2023/` | Ordenanza 2583/2023: Declárase el año 2023 como año de homenaje a los cuarenta años ininterrumpidos de democracia. | in force 26 May 2023 |
+| `ordenanza-2588-2023/` | Ordenanza 2588/2023: Declarar Comercio Histórico del Partido de Alberti a Forrajería y Semillería “El Colono”, abierto al público desde el año 1968. | in force 26 May 2023 |
+| `ordenanza-2589-2023/` | Ordenanza 2589/2023: Declarar Comercio Histórico del Partido de Alberti a “Agrovet” Veterinaria, abierto al público desde el año 1969. | in force 26 May 2023 |
+| `ordenanza-2604-2023/` | Ordenanza 2604/2023: Convalídese en todos sus términos el Decreto 675/23 para la ejecución de la obra construcción de 54 viviendas en el Barrio San Lorenzo. | in force 27 October 2023 |
+| `ordenanza-2605-2023/` | Ordenanza 2605/2023: Declarar de Interés Cultural al trabajo de investigación “Argentina: 1810-1910” del Lic. Ricardo Corigliano y felicitarlo por dicha labor. | in force 27 October 2023 |
+| `ordenanza-2606-2023/` | Ordenanza 2606/2023: Convalídese las extralimitaciones acaecidas en la Ejecución del Presupuesto de Gastos del Ejercicio 2022, según así lo establece el artícul… | in force 14 December 2023 |
+| `ordenanza-2609-2023/` | Ordenanza 2609/2023: Declarar Comercio Histórico del Partido de Alberti a “Restaurante y Parrilla La Fusta”, abierto al público desde el año 1976. | in force 14 December 2023 |
+| `ordenanza-2623-2023/` | Ordenanza 2623/2023: Apruébese el Expediente 4002.- 5390/23: Ordenanza Preparatoria Fiscal e Impositiva Ejercicio 2024.- | in force 25 April 2024 |
+| `ordenanza-2626-2023/` | Ordenanza 2626/2023: Declárase Entidad de Bien Público Municipal a ¨Liga de PADRES DE FAMILIA ASOCIACIÓN CIVIL¨. | in force 25 April 2024 |
+| `ordenanza-2629-2024/` | Ordenanza 2629/2024: Declarase el año 2024 como el año en que se conmemora la gratuidad universitaria. - | in force 1 August 2024 |
+| `ordenanza-2630-2024/` | Ordenanza 2630/2024: Declarase de Interés Municipal al Pre Congreso de Salud 2024 de la Región Sanitaria X, organizado por el Ministerio de Salud de la Provinci… | in force 1 August 2024 |
+| `ordenanza-2631-2024/` | Ordenanza 2631/2024: Dispónese la aceptación la donación efectuada por el Ministerio de Producción, Ciencia e Innovación Tecnológica de la Provincia de Buenos A… | in force 1 August 2024 |
+| `ordenanza-2636-2024/` | Ordenanza 2636/2024: Convalídese en todos sus términos el Convenio específico entre la Facultad Regional de San Nicolás de la Universidad Tecnológica Nacional y… | in force 28 August 2024 |
+| `ordenanza-2637-2024/` | Ordenanza 2637/2024: Facúltase al Departamento Ejecutivo a incorporar al patrimonio municipal el bien inmueble que se detalla a continuación, en las condiciones… | in force 28 August 2024 |
+| `ordenanza-2639-2024/` | Ordenanza 2639/2024: Convalídese en todos sus términos el Convenio específico entre la Cooperativa Eléctrica de Pla y la Municipalidad de Alberti | in force 7 September 2024 |
+| `ordenanza-2640-2024/` | Ordenanza 2640/2024: Dejase establecido con carácter general temporario, un sistema de presentación espontánea y régimen de facilidades de pago para la regulari… | in force 7 September 2024 |
+| `ordenanza-2642-2024/` | Ordenanza 2642/2024: 1: Apruébese la Rendición de Cuentas Ejercicio 2023, conforme a lo detallado en el Expediente N° 4002 – 5427/24. | in force 7 September 2024 |
+| `ordenanza-2643-2024/` | Ordenanza 2643/2024: Establecer el sentido de las siguientes calles: | in force 7 September 2024 |
+| `ordenanza-2644-2024/` | Ordenanza 2644/2024: Impleméntese en el Partido de Alberti, una campaña integral preventiva, dirigida a toda la comunidad, sobre los riesgos del juego con apues… | in force 20 September 2024 |
+| `ordenanza-2645-2024/` | Ordenanza 2645/2024: Identifíquese con el nombre de Martina Chapanay a la calle ubicada entre Circunscripción I, Sección B, Manzana 103, Parcela 6, y Circunscri… | in force 20 September 2024 |
+| `ordenanza-2646-2024/` | Ordenanza 2646/2024: Declarar de Interés Cultural el encuentro enmarcado dentro de los 50 años de la EDUCACIÓN SUPERIOR PARA JÓVENES, ADULTOS Y ADULTOS MAYORES … | in force 20 September 2024 |
+| `ordenanza-2650-2024/` | Ordenanza 2650/2024: Imponerse el nombre Dr. Raúl Ricardo Alfonsín al barrio generado por el nuevo loteo de La Candela ubicado entre las calles: Héroes Albertin… | in force 12 October 2024 |
+| `ordenanza-2658-2024/` | Ordenanza 2658/2024: FACULTASE al Departamento Ejecutivo a celebrar con Provincia Leasing S.A. contrato/s de leasing en forma de contratación directa de conform… | in force 26 December 2024 |
+| `ordenanza-2659-2024/` | Ordenanza 2659/2024: Declarar Comercio Histórico del Partido de Alberti a “Heladería NEYCE”, abierta al público desde el año 1979. | in force 17 January 2025 |
+| `ordenanza-2660-2024/` | Ordenanza 2660/2024: Declarar Comercio Histórico del Partido de Alberti a “COCHERÍA CAMINOS”, empresa familiar de Servicios Fúnebres desde hace 92 años. | in force 17 January 2025 |
+| `ordenanza-2662-2024/` | Ordenanza 2662/2024: Declarase de Interés Municipal al Programa ODS “PENSAR EL DESARROLLO SOSTENIBLE EN LAS AULAS”, desarrollado en nuestra localidad por docent… | in force 17 January 2025 |
+| `ordenanza-2663-2024/` | Ordenanza 2663/2024: Dispónese la transmisión dominial sin cargo, en forma gratuita, a favor de las personas que se indican en el Anexo I que integra la present… | in force 17 January 2025 |
+| `ordenanza-2666-2024/` | Ordenanza 2666/2024: ESTABLECER en Alberti la semana del 25 de noviembre al 3 de diciembre de cada año, como la “Semana por la Promoción de los Derechos de las … | in force 13 February 2025 |
+| `ordenanza-2667-2024/` | Ordenanza 2667/2024: Dispónese la permuta como Espacio Verde y Libre Público a Ceder, de las parcelas identificadas catastralmente como: a) Circunscripción XI, … | in force 16 February 2025 |
+| `ordenanza-2668-2024/` | Ordenanza 2668/2024: Apruébese el Expediente 4002.- 5570/24: Ordenanza Preparatoria Fiscal e Impositiva Ejercicio 2025. - | in force 16 February 2025 |
+| `ordenanza-2669-2024/` | Ordenanza 2669/2024: Apruébese la Ordenanza Preparatoria N° 2668 FISCAL E IMPOSITIVA – EJERCICIO 2025. | in force 16 February 2025 |
+| `ordenanza-2670-2024/` | Ordenanza 2670/2024: El Municipio de Alberti adhiere a la Ley 10592 de la Provincia de Buenos Aires que establece la creación un régimen jurídico básico e integ… | in force 16 February 2025 |
+| `ordenanza-2674-2024/` | Ordenanza 2674/2024: El Municipio de Alberti adhiere a la Ley 15510 de la provincia de Buenos Aires que establece la creación del Régimen Provincial de Inversio… | in force 16 February 2025 |
+| `ordenanza-2676-2024/` | Ordenanza 2676/2024: Apruébese el Cálculo de Recursos y Presupuesto de Gastos Ejercicio 2025, Expediente 4002 –5581/24. | in force 16 February 2025 |
+| `ordenanza-2681-2025/` | Ordenanza 2681/2025: DECLÁRASE de Interés Municipal la proyección de la película “Norita” gratuita y abierta a los ciudadanos y ciudadanas en general, y a jóven… | in force 5 June 2025 |
+| `ordenanza-2682-2025/` | Ordenanza 2682/2025: Modificase el artículo 29 de la Ordenanza N° 2217, que integra el Capítulo IV, el cual quedará redactado de la siguiente manera: | in force 5 June 2025 |
+| `ordenanza-2683-2025/` | Ordenanza 2683/2025: 1: Declárase de Interés Municipal la FIESTA DE LA CARNEADA TRADICIONAL Y KERMESE DE CAMPO DE PLA, la cual se realiza anualmente durante el … | in force 5 July 2025 |
+| `ordenanza-2684-2025/` | Ordenanza 2684/2025: Convalídese en todos sus términos el Contrato de Comodato que como Anexo I forma parte de la presente, mediante el cual los descendientes d… | in force 5 July 2025 |
+| `ordenanza-2685-2025/` | Ordenanza 2685/2025: al Centro de Atención Primaria de la Salud del Barrio Cavagnaro, el nombre de DOCTOR HERMINIO JORGE ZATTI.- | in force 5 July 2025 |
+| `ordenanza-2690-2025/` | Ordenanza 2690/2025: Convalídese en todos sus términos el convenio suscripto por el Departamento Ejecutivo con el Ministerio de Infraestructura y Servicios Públ… | in force 31 July 2025 |
+| `ordenanza-2692-2025/` | Ordenanza 2692/2025: Declárase Entidad de Bien Público Municipal a la Cooperadora de la Escuela de Educación Secundaria N° 3 “Movimiento Arte Concreto Invención… | in force 27 November 2025 |
+| `ordenanza-2693-2025/` | Ordenanza 2693/2025: Declárase Entidad de Bien Público Municipal a la Cooperadora de la Escuela de Equinoterapia. - | in force 27 November 2025 |
+| `ordenanza-2694-2025/` | Ordenanza 2694/2025: Reconocese y autorizase el pago de la deuda a la Dirección Provincial del Registro de la Propiedad de la Provincia de Buenos Aires, cuyo mo… | in force 27 November 2025 |
+| `ordenanza-2698-2025/` | Ordenanza 2698/2025: Dispónese la creación de la Biblioteca Municipal de Alberti, que funcionará en la ciudad cabecera del Partido de Alberti, con sede en el Va… | in force 5 February 2026 |
+| `ordenanza-2699-2025/` | Ordenanza 2699/2025: Declárase Entidad de Bien Público Municipal a la Asociación de Voley Alberti. | in force 5 February 2026 |
+| `ordenanza-2700-2025/` | Ordenanza 2700/2025: Dispónese la aceptación la donación efectuada por el Programa de las Naciones Unidas para el desarrollo, consistente en la entrega de los s… | in force 21 February 2026 |
+| `ordenanza-27001-2025/` | Ordenanza 27001/2025: Dispónese la aceptación la donación efectuada por la Asociación Cooperadora del Hospital Municipal “Nuestra Señora de la Merced”, consiste… | in force 21 February 2026 |
+| `ordenanza-2703-2025/` | Ordenanza 2703/2025: Dispónese la aceptación la donación efectuada por el, Ministerio de Transporte de la Provincia de Buenos Aires en el marco del programa Vue… | in force 21 February 2026 |
+| `ordenanza-2705-2025/` | Ordenanza 2705/2025: Designase el sentido de circulación a las calles que a continuación se detallan: | in force 21 February 2026 |
+| `ordenanza-2712-2026/` | Ordenanza 2712/2026: El acuerdo suscripto por el Departamento Ejecutivo municipal con | in force 25 July 2026; single-file act |
 
 ## Source
 
@@ -176,7 +227,7 @@ Sistema de Boletines Oficiales Municipales (SIBOM), Subsecretaría Legal y Técn
 
 ## Files
 
-`<ordinance>/art-005.md` is Artículo 5; `encabezado.md` holds the number, the place and date, the expediente line and anything printed before Artículo 1. Signatures and annexes stay in the file of the article they follow. One paragraph per line.
+`<ordinance>/art-005.md` is Artículo 5; `encabezado.md` holds the number, the place and date, the expediente line and anything printed before Artículo 1. Signatures and annexes stay in the file of the article they follow. An ordinance without article headings is held in one file. One paragraph per line.
 
 ## How it is checked
 
@@ -190,60 +241,9 @@ This is not an official publication. The binding text is the one published in th
 
 ## Left out
 
-53 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Alberti page gives no article text to read:
+2 ordinances that SIBOM lists in the period covered are not included, because the Boletín Oficial Municipal de Alberti page gives no article text to read:
 
 | Ordinance | Published | Why | Page |
 | --- | --- | --- | --- |
 | Ordenanza 2394 | 6 July 2020 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/3879/contents/1466421> |
 | Ordenanza 2456 | 8 June 2021 | published again; the first publication is included | <https://sibom.slyt.gba.gob.ar/bulletins/5342/contents/1571579> |
-| Ordenanza 2582-23 | 17 May 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/8531/contents/1862706> |
-| Ordenanza 2583-23 | 17 May 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/8531/contents/1862718> |
-| Ordenanza 2588-23 | 17 May 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/8531/contents/1864435> |
-| Ordenanza 2589-23 | 17 May 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/8531/contents/1864439> |
-| Ordenanza 2604-23 | 18 October 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9479/contents/1960470> |
-| Ordenanza 2605-23 | 18 October 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9479/contents/1960476> |
-| Ordenanza 2606-23 | 5 December 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9662/contents/1987321> |
-| Ordenanza 2609-23 | 5 December 2023 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/9662/contents/1987364> |
-| Ordenanza 2623-23 | 16 April 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10194/contents/2039097> |
-| Ordenanza 2626-23 | 16 April 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10194/contents/2039116> |
-| Ordenanza 2629-2024 | 23 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10863/contents/2081540> |
-| Ordenanza 2630-2024 | 23 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10863/contents/2081551> |
-| Ordenanza 2631-2024 | 23 July 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/10863/contents/2081558> |
-| Ordenanza 2636-2024 | 19 August 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11017/contents/2093362> |
-| Ordenanza 2637-2024 | 19 August 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11017/contents/2093370> |
-| Ordenanza 2639-2024 | 29 August 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11172/contents/2100007> |
-| Ordenanza 2640-2024 | 29 August 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11172/contents/2100053> |
-| Ordenanza 2642-2024 | 29 August 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11172/contents/2100238> |
-| Ordenanza 2643-2024 | 29 August 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11172/contents/2100242> |
-| Ordenanza 2644-2024 | 11 September 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11249/contents/2105482> |
-| Ordenanza 2645-2024 | 11 September 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11249/contents/2105483> |
-| Ordenanza 2646-2024 | 11 September 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11249/contents/2105484> |
-| Ordenanza 2650-2024 | 3 October 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11343/contents/2113258> |
-| Ordenanza 2658-2024 | 17 December 2024 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11570/contents/2130651> |
-| Ordenanza 2659-2024 | 8 January 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11893/contents/2154528> |
-| Ordenanza 2660-2024 | 8 January 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11893/contents/2154538> |
-| Ordenanza 2662-2024 | 8 January 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11893/contents/2154594> |
-| Ordenanza 2663-2024 | 8 January 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/11893/contents/2154598> |
-| Ordenanza 2666-24 | 4 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12040/contents/2163587> |
-| Ordenanza 2667-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12198/contents/2174672> |
-| Ordenanza 2668-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12198/contents/2174679> |
-| Ordenanza 2669-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12198/contents/2174688> |
-| Ordenanza 2670-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12198/contents/2174700> |
-| Ordenanza 2674-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12198/contents/2174731> |
-| Ordenanza 2676-24 | 7 February 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12198/contents/2174744> |
-| Ordenanza 2681-25 | 27 May 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12650/contents/2223968> |
-| Ordenanza 2682-25 | 27 May 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12650/contents/2223978> |
-| Ordenanza 2683-25 | 26 June 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12861/contents/2239787> |
-| Ordenanza 2684-25 | 26 June 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12861/contents/2239793> |
-| Ordenanza 2685-25 | 26 June 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/12861/contents/2239859> |
-| Ordenanza 2690-25 | 22 July 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/13043/contents/2253987> |
-| Ordenanza 2692-25 | 18 November 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/13222/contents/2281321> |
-| Ordenanza 2693-25 | 18 November 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/13222/contents/2281331> |
-| Ordenanza 2694-25 | 18 November 2025 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/13222/contents/2281358> |
-| Ordenanza 2698-25 | 27 January 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/14282/contents/2343789> |
-| Ordenanza 2699-25 | 27 January 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/14282/contents/2343802> |
-| Ordenanza 2700-25 | 12 February 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/14389/contents/2351098> |
-| Ordenanza 27001-25 | 12 February 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/14389/contents/2351102> |
-| Ordenanza 2703-25 | 12 February 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/14389/contents/2351112> |
-| Ordenanza 2705-25 | 12 February 2026 | number or publication date not readable | <https://sibom.slyt.gba.gob.ar/bulletins/14389/contents/2351116> |
-| Ordenanza 2712 | 16 July 2026 | no article in the published text | <https://sibom.slyt.gba.gob.ar/bulletins/14466/contents/2375441> |
